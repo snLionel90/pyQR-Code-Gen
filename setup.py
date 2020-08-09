@@ -17,7 +17,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: TTS text to speech :: snLionel90 ",
+        "License :: pyqrcode :: snLionel90 ",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
